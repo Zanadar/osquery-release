@@ -1,0 +1,7 @@
+---
+name: osquery
+
+dependencies: []
+
+files:
+  -  osquery/osquery-*.msi

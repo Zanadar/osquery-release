@@ -1,0 +1,11 @@
+---
+name: osquery
+
+templates:
+  pre-start: bin/pre-start.ps1
+  drain: bin/drain.ps1
+
+packages:
+  - osquery
+
+properties: {}
